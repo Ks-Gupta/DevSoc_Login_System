@@ -19,4 +19,4 @@ Output Screens:
 ![Screenshot (29)](https://github.com/user-attachments/assets/e64edf8a-35f8-4b16-9198-d3838c13ae43)
 
 Database in PHP Server:
-![Screenshot (28)](https://github.com/user-attachments/assets/96c9bbcd-75e9-40d4-8524-842ddacdc4b7)
+![Screenshot (28)](https://github.com/user-attachments/assets/1c2645fb-212a-4e08-97ec-4d5f6b008269)
